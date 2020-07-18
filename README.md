@@ -1,0 +1,2 @@
+# sokadikrepo
+repo for exercising
